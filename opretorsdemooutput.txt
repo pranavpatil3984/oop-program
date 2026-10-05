@@ -1,0 +1,8 @@
+Arithematic promotion Result:110
+x + y =35
+x - y =5
+x * y =300
+x / y =1
+x % y =5
+Addition:21
+multiplication: 20
