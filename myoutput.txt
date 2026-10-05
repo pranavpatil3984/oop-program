@@ -1,0 +1,8 @@
+Add two intergers:15
+Add three intergers:30
+add two doubles:10.0
+Name:pranav,age:20
+Name:nitin,age:22
+Name:nitin,age:22
+Student s4 details(reference to s2):
+Name:nitin,age:22
